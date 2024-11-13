@@ -1,0 +1,3 @@
+Main page is opened
+Main page is opened
+//div[@class='productinfo text-center']//p[.='Blue Top']/../../../div[@class='choose']//a

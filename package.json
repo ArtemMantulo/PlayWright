@@ -1,0 +1,23 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "tsc --incremental -p tests/tsconfig.json",
+    "test": "playwright test -c tests-out"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.11",
+    "allure-playwright": "^2.15.1",
+    "axe-core": "^4.9.1",
+    "playwright-elements": "^1.15.0"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.9.1"
+  }
+}

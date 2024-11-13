@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Sun May 12 15:57:29 MSK 2024","Sun May 12 15:57:29 MSK 2024","2","chromium","example.spec.ts","","","","get started link",""
+"failed","Sun May 12 15:59:29 MSK 2024","Sun May 12 15:59:36 MSK 2024","7374","chromium","example.spec.ts","","","","has title",""
